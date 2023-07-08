@@ -1,0 +1,316 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+#fun{
+    position: fixed;
+    z-index:1;
+    width: 100%;
+}
+.container-fluid {
+    background-color: #191a1d;
+}
+
+#nit{
+    position: fixed;
+    margin-left: auto;
+}
+
+
+#love1 {
+    position: fixed;
+}
+.love{
+    width: 10vw;
+    border-style: solid;
+    border-color: #4b6cc1;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.hit {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 105px;
+}
+
+.run {
+    text-align: left;
+    color: white;
+    font-size: 60px;
+    font-family: "Roboto";
+    padding-left: 10px;
+    padding-top: 100px;
+}
+
+.run1 {
+    color: #4b6cc1;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 25px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.but {
+    background-color: #4b6cc1;
+    color: white;
+    height: 6vh;
+    width: 20vw;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.run3 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    padding-left: 10px;
+    margin-top: 105px;
+
+}
+
+.run4 {
+    color: #4b6cc1;
+}
+
+.para4 {
+    color: #9aa5b1;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 15px;
+}
+/*about me------------------------*/
+.gun {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.fin {
+    color: #cced00;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.pin {
+    color: white;
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+.sms {
+    width: 100%;
+    padding: 10px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.dig {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.fin1 {
+    color: #cced00;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.put {
+    background-color: #323f4b;
+    border-radius: 15px;
+    margin: 40px;
+}
+
+.hyu {
+    height: 15vh;
+    padding: 10px;
+}
+
+.visu {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.visu1 {
+    color: white;
+    font-size: 30px;
+}
+/*Project*/
+#project{
+    width: 100%;
+}
+.pin {
+    background-color: #3e4c59;
+    padding-bottom: 50px;
+
+}
+
+.lin {
+    color: #cced00;
+    font-size: 25px;
+    font-family: Roboto;
+    padding-top: 45px;
+    padding-left: 10px;
+}
+
+.lin1 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Roboto;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.pon{
+    background-color: #323f4b;
+    width: 70%;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.kin{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.oin {
+    color: #9aa5b1;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.lin2 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Roboto;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.oin0 {
+    color: #9aa5b1;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.but {
+    color: #cced00;
+    background-color: #323f4b;
+    border: 0px;
+    font-size: 20px;
+    margin-left: 9px;
+}
+/*Service--------------*/
+#Service{
+    width: 100%;
+}
+.container-fluid1 {
+    background-color: #52606d;
+    background-size: cover;
+}
+
+.gun {
+    color: #cced00;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.static {
+    background-color: #323f4b;
+    width: 75%;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.kit {
+    height: 13vh;
+}
+
+.lin {
+    color: white;
+    text-align: left;
+    padding-left: 25px;
+    font-size: 30px;
+}
+
+.par {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+/*Workdone------------*/
+.container1 {
+    background-color: #323f4b;
+    background-size: cover;
+    height: 50vh;
+}
+
+.gr {
+    background-color: white;
+    width: 70px;
+}
+
+.vi {
+    color: white;
+    font-size: 30px;
+}
+
+.p {
+    color: white;
+    font-size: 10px;
+}
+/*contact*/
+#container12 {
+    background-color: #001c32;
+}
+
+.vin {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.kin {
+    color: #ccde00;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.op {
+    color: #5a7184;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.kin1 {
+    color: #ccde00;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.icon {
+    color: #5a7184;
+    padding-left: 10px;
+}
+
+.bin {
+    background-color: #0d2436;
+    background-size: cover;
+    width: 100%;
+}
